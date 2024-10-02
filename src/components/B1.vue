@@ -2,7 +2,7 @@
   <div style="width: 300px; display: flex; flex-direction: column">
     <label for="">Email</label>
     <input type="text" v-model="email" @change="handleChange" />
-    <p>giá trị: {{ inputValue }}</p>
+    <p>Giá trị: {{ inputValue }}</p>
   </div>
 </template>
 

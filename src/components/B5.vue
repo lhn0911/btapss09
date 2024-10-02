@@ -1,5 +1,5 @@
 <template>
-  <div style="width: 300px">
+  <div style="width: 250px">
     <label>Giới tính: {{ gender }}</label> <br />
     <input type="radio" value="Nam" v-model="gender" />Nam <br />
     <input type="radio" value="Nữ" v-model="gender" />Nữ <br />

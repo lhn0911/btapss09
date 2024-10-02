@@ -1,5 +1,5 @@
 <template>
-  <div style="width: 300px; display: flex; flex-direction: column">
+  <div style="width: 250px; display: flex; flex-direction: column">
     <label for="">Tiến độ hoành thành: {{ complete }} %</label>
     <input type="range" v-model="complete" @change="handleChange" />
   </div>

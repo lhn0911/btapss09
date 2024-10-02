@@ -1,7 +1,7 @@
 <template>
   <div>
     <form
-      style="width: 300px; display: flex; flex-direction: column; gap: 5px"
+      style="width: 250px; display: flex; flex-direction: column; gap: 5px"
       @submit.prevent="handleSubmit"
     >
       <h1 style="text-align: center">Đăng nhập tài khoản</h1>

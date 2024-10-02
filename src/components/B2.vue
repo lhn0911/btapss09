@@ -1,6 +1,6 @@
 <template>
   <div style="width: 300px; display: flex; flex-direction: column">
-    <label for="">Màu sắc</label>
+    <label for="">Color</label>
     <input type="color" v-model="color" />
   </div>
 </template>

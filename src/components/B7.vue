@@ -2,7 +2,7 @@
   <div>
     <form
       action=""
-      style="width: 300px; display: flex; flex-direction: column; gap: 5px"
+      style="width: 250px; display: flex; flex-direction: column; gap: 5px"
       @submit.prevent="handleSubmit"
     >
       <h1 style="text-align: center">Thêm mới sản phẩm</h1>
